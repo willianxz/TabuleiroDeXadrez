@@ -44,8 +44,8 @@ function draw() {
   if(posicaoY == 400){
      posicaoX = 0;
      posicaoY = 0;
-     tempo--;
-     noLoop();
+     //tempo--;
+     //noLoop();
   }  
    
   tempo++;
